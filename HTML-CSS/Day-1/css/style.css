@@ -1,0 +1,13 @@
+hgroup{
+    color: brown;
+}
+p{
+    margin: 20%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-size: 20px;
+}
+
+.full-size{
+    width: 100%;
+}
