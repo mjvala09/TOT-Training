@@ -1,0 +1,13 @@
+Topics :
+Css Introduction 
+CSS Types
+Use google fonts in the webpage html - https://fonts.google.com/about
+Use fonts icons in the webpage html - https://fontawesome.com/v4/icons/, https://fontawesome.com/v5/search?o=r&m=free
+
+Task Assignment :
+
+1] Go through all CSS Properties with an example from here https://www.w3schools.com/css/default.asp
+
+2] Create the HTML for task-1 and task-2
+
+Note: Share hosted link
