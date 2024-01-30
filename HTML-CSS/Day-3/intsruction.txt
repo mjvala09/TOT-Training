@@ -1,0 +1,12 @@
+Topics :
+- Table and form structure Introduction
+- Table tags
+- Form Elements
+
+Task Assignment :
+
+1] Go through all table tags with an example from here https://www.w3schools.com/html/html_tables.asp
+
+2] Go through all HTML Form Elements with an example from here https://www.w3schools.com/html/html_form_elements.asp
+
+3] Create the HTML Task-1 and Task-2

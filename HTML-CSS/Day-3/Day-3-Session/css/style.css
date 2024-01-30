@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    font-weight: 500;
+    color: #333;
+    padding: 0;
+    font-size: 20px;
+}
+
+section.form-design {
+    background: #ccc;
+    padding: 2rem 0;
+    display: flex;
+    justify-content: center;
+    min-height: calc(100vh - 64px);
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.main-form .form-group label.before::before {
+    content: "";
+    width: 100px;
+    display: inline-block;
+    background: #eee;
+    height: 1px;
+    vertical-align: middle;
+    margin-right: 21px;
+
+}
+
+.main-form {
+    max-width: 500px;
+    background: #fff;
+    box-sizing: border-box;
+    padding: 3rem;
+    border-radius: 40px;
+    width: 100%;
+
+}
+
+.main-form .form-group .form-control {
+
+    background: #eee;
+    border: #ccc solid 1px;
+    outline: none;
+    padding: 10px 20px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.main-form .form-group.single {
+    display: flex;
+    align-items: center;
+}
+
+.main-form .form-group.single label {
+    margin-left: 10px;
+    margin-bottom: 0;
+}
+
+.main-form .submitbtn {
+    background-color: blue;
+    color: #fff;
+    outline: none;
+    border: 0;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.main-form .form-group {
+    margin-bottom: 1rem;
+}
+
+.main-form .form-group label {
+    width: 100%;
+    display: block;
+    font-size: 13px;
+    margin-bottom: 4px;
+}
+
+
+/* table css */
+
+.maintable {
+    background-color: red;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow-x: auto;
+}
+
+.maintable .table {
+
+    background: #fff;
+    width: 100%;
+    text-align: left;
+    border-spacing: 0;
+    border: #eee solid 1px
+}
+
+.maintable .table thead tr th {
+    border: #eee solid 1px;
+    padding: 20px;
+    background-color: blue;
+    color: #fff;
+}
+
+.maintable .table tbody tr td {
+    border: #eee solid 1px;
+    padding: 20px;
+
+}
+
+.maintable .table tbody tr:nth-child(odd) {
+    background-color: yellow;
+}
