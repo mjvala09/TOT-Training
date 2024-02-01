@@ -1,0 +1,21 @@
+- Header and footer tags in details
+- Explaination on website navigation menu and footer
+
+Header - https://www.w3schools.com/tags/tag_header.asp
+Footer - https://www.w3schools.com/tags/tag_footer.asp
+
+Task Assignment :
+
+1] Create the Header and footer as shown in the task-1 and task-2.
+
+
+
+
+
+
+
+
+
+
+
+

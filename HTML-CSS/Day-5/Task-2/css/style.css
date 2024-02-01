@@ -1,0 +1,113 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    list-style: none;
+}
+/* img{
+    height: 100%;
+} */
+header .container{
+    width: 100%;
+    padding: 0% 15%;
+    border-bottom: 1px solid #dfe5ec;
+}
+header .row{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 70px;
+    padding: 0% 0% 0% 3%;
+    justify-content: center;
+}
+header .row ul{
+    
+    /* justify-content: space-between; */
+}
+.middle-ul{
+    display: flex;
+    align-items: center;
+    padding-right: 25%;
+}
+.middle-ul li{
+    padding-left: 10%;
+}
+.right-icons ul{
+    padding-right: 1%;
+    display: flex;
+    align-items: center;
+}
+.right-icons li{
+    padding-left: 11%;
+}
+.call-now{
+    font-size: 11px;
+    margin: 1% 20%;
+    display: block;
+}
+header .right-icons{
+    display: block;
+    display: flex;
+    align-items: center;
+    padding-right: 25%;
+}
+header li{
+    display: block;
+    flex-shrink: 0;
+    padding: 1% 3%;
+}
+header .logo{
+    height: 25px;
+    padding-right: 12%;
+}
+.buy-tires::after{
+    content: " ";
+    background-image: url('../images/down-arrow.png');
+    position: absolute;
+    right: auto;
+    background-repeat: no-repeat;
+    padding: 8px;
+    top: 28px;
+}
+.batteries::after{
+    content: " ";
+    background-image: url('../images/down-arrow.png');
+    position: absolute;
+    right: auto;
+    background-repeat: no-repeat;
+    padding: 8px;
+    top: 28px;
+}
+.contact-icon{
+    display: block;
+    padding-left: 110%;
+}
+.compare-icon
+{
+  margin-right: 20px;
+  position: relative;
+}
+.compare-icon::before{
+  content: "";
+  position: absolute;
+  right: auto;
+  padding: 0;
+  top: 11px;
+  background-color: #c1c1c1;
+  height: 23px;
+  width: 2px;
+  left: -28px;
+}
+.compare-icon::after{
+  content: "";
+  position: absolute;
+  right: auto;
+  padding: 0;
+  top: 11px;
+  background-color: #c1c1c1;
+  height: 23px;
+  width: 2px;
+  left: 64px;
+}
