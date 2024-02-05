@@ -1,0 +1,34 @@
+Task Assignment :
+
+1] Create HTML as shown in the image task-to-perform.png
+
+Points to be taken care
+---------------------------------------------------------------
+
+- Proper folder structure
+- Proper column structure
+- Meaningful class name
+- Avoid inline/internal CSS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
