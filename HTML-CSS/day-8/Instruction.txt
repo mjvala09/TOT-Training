@@ -1,0 +1,15 @@
+Topics:
+
+1) Introduction Bootstrap 5
+2) Download and Integrate
+3) Bootstrap Structure
+4) Bootstrap Grid and Column Classes.
+5) Overwrite Bootstrap Classes
+
+
+Task Assignment :
+
+1] Go through all bootstrap components with an example from here https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
+2] Create the HTML for task-1 and task-2
+
