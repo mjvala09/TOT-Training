@@ -1,0 +1,19 @@
+Topics :
+
+1) Bootstrap Navbar 
+2) Bootstrap Carousel 
+3) Bootstrap cards
+4) Bootstrap Navs & tabs
+
+
+Task Assignment :
+
+1] Go through all navbar classes, cards, Navs & tabs and carousel classes with an example from here 
+   https://getbootstrap.com/docs/5.3/components/navbar/
+   https://getbootstrap.com/docs/5.3/components/carousel/
+   https://getbootstrap.com/docs/5.3/components/card/
+   https://getbootstrap.com/docs/5.3/components/navs-tabs/
+
+2] Create Bootstrap Navbar, cards, Navs & tabs and Carousel as attached.
+
+Note: Create the HTML as per the task-1, task-2, task-3 and task-4

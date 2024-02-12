@@ -1,0 +1,15 @@
+Topics :
+
+1) Bootstrap Tables
+2) Bootstrap Form 
+
+
+Task Assignment :
+
+1] Go through all table and form classes with an example from here 
+   https://getbootstrap.com/docs/5.3/forms/overview/
+   https://getbootstrap.com/docs/5.3/content/tables/
+   
+2] Create Bootstrap Tables and Form as attached.
+
+Note: Create the HTML as per the task-1 and task-2

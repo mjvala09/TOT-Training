@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+.overlay {
+    filter: brightness(50%);
+}
+
+img.custom-height{
+    height: 900px !important;
+}
+#carouselExampleAutoplaying .carousel-inner .custom-caption{
+    width: 100% !important;
+    top: 25% !important;
+    bottom: 75% !important;
+    right: auto !important;
+}
+.roboto{
+    font-family: 'Roboto', sans-serif !important;
+}
+.roboto-height{
+    font-size: 4.1rem;
+}

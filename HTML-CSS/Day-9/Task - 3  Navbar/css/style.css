@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+body{
+    font-family: 'Roboto', sans-serif !important;
+}
+.padding{
+    padding-left: 20% !important;
+    padding-right: 20% !important;
+}
+
+.cust-color{
+    color: #45b3da !important;
+}
+.cust-bgcolor{
+    background-color: #45b3da !important;;
+}
